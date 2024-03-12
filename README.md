@@ -25,7 +25,8 @@
  ✌️ &emsp; Tech enthusiast passionate about coding, AI, and emerging technologies. <br/><br/>
  ❤️ &emsp; Always exploring new technologies & seeking innovative solutions.<br/><br/>
  📧 &emsp; Let's embark on this exciting journey together and shape the future of tech!<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Mayank-01x/Mayank-01x/issues)
+ 💬 &emsp; All of my projects are available at [https://portfolio-adrian-joltea.netlify.app](https://portfolio-adrian-joltea.netlify.app)<br/><br/>
+ 📫 &emsp; How to reach me **jolteaadrian@gmail.com**<br/><br/>
 
 </p>
 
@@ -33,17 +34,7 @@
 <br/>
 <br/>
 
-<div style="display: flex; align-items: flex-start; justify-content:center">
-  <div style="flex: 1;">
-  
-- 🌱 I’m currently learning **React**<br>
-- 👨‍💻 All of my projects are available at [https://portfolio-adrian-joltea.netlify.app](https://portfolio-adrian-joltea.netlify.app)<br>
-- 💬 Ask me about **React**<br>
-- 📫 How to reach me **jolteaadrian@gmail.com**<br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp0c3RwOTkxejd0b3EwOGh4ajBoMHIxa3N0ZDFqOWZrMjNkbjFsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="350" align="right">
-  </div>
-  
-</div>
+
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
