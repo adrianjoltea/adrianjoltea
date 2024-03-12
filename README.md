@@ -16,6 +16,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianjoltea&label=Profile%20views&color=0e75b6&style=flat" alt="adrianjoltea" /> </p>
 <br/>
 
+<!-- About Section -->
+ # About me:
+ 
+<p>
+ <img align="right" width="350" src="/assets/Coder.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Tech enthusiast passionate about coding, AI, and emerging technologies. <br/><br/>
+ ❤️ &emsp; Always exploring new technologies & seeking innovative solutions.<br/><br/>
+ 📧 &emsp; Let's embark on this exciting journey together and shape the future of tech!<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/Mayank-01x/Mayank-01x/issues)
+
+</p>
+
+<br/>
+<br/>
+<br/>
+
 <div style="display: flex; align-items: flex-start; justify-content:center">
   <div style="flex: 1;">
   
