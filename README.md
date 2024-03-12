@@ -16,28 +16,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianjoltea&label=Profile%20views&color=0e75b6&style=flat" alt="adrianjoltea" /> </p>
 <br/>
 
-<p>
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp0c3RwOTkxejd0b3EwOGh4ajBoMHIxa3N0ZDFqOWZrMjNkbjFsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="350" align="rigth">
-  
- ✌️ &emsp; Tech enthusiast passionate about coding, AI, and emerging technologies. <br/><br/>
- ❤️ &emsp; Always exploring new technologies & seeking innovative solutions.<br/><br/>
- 📧 &emsp; Let's embark on this exciting journey together and shape the future of tech!<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Mayank-01x/Mayank-01x/issues)
-
-</p>
-
-<p>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp0c3RwOTkxejd0b3EwOGh4ajBoMHIxa3N0ZDFqOWZrMjNkbjFsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="350" align="rigth">
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-adrian-joltea.netlify.app](https://portfolio-adrian-joltea.netlify.app)
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **jolteaadrian@gmail.com**
-
-</p>
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <p>
+      - 🌱 I’m currently learning <strong>React</strong><br>
+      - 👨‍💻 All of my projects are available at <a href="https://portfolio-adrian-joltea.netlify.app">https://portfolio-adrian-joltea.netlify.app</a><br>
+      - 💬 Ask me about <strong>React</strong><br>
+      - 📫 How to reach me <strong>jolteaadrian@gmail.com</strong><br>
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp0c3RwOTkxejd0b3EwOGh4ajBoMHIxa3N0ZDFqOWZrMjNkbjFsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="350" align="right">
+  </div>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joltea adrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joltea adrian" height="30" width="40" /></a>
