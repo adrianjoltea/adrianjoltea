@@ -1,5 +1,17 @@
-<h1 align="center">Hi 👋, I'm Joltea Adrian</h1>
+<h2 align="center">
+  Welcome to My Profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 <h3 align="center">A passionate frontend developer from Romania</h3>
+
+<p align="center"> 
+  <samp>
+    <br>
+    「Hello and welcome to my profile, let's walk you through my coding adventure, i started coding in 2023 and i started with data science and learned it for 3 months almost giving up thinking this isn't for me after looking on the web for courses i found codedex and gave a try to frontend which i'm still learning today, did a lot of small and big projects to test my skills and i'm quite confident to say that i know some things about programing for a self thought frontend developer, anyway thank you for reading this and i hope that u will enjoy this profile」
+    <br>
+    <br>
+  </samp>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianjoltea&label=Profile%20views&color=0e75b6&style=flat" alt="adrianjoltea" /> </p>
 
