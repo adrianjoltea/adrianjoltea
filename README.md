@@ -16,14 +16,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianjoltea&label=Profile%20views&color=0e75b6&style=flat" alt="adrianjoltea" /> </p>
 <br/>
 
-<div style="display: flex;">
+<div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-    <p>
-      - 🌱 I’m currently learning <strong>React</strong><br>
-      - 👨‍💻 All of my projects are available at <a href="https://portfolio-adrian-joltea.netlify.app">https://portfolio-adrian-joltea.netlify.app</a><br>
-      - 💬 Ask me about <strong>React</strong><br>
-      - 📫 How to reach me <strong>jolteaadrian@gmail.com</strong><br>
-    </p>
+  
+- 🌱 I’m currently learning **React**<br>
+- 👨‍💻 All of my projects are available at [https://portfolio-adrian-joltea.netlify.app](https://portfolio-adrian-joltea.netlify.app)<br>
+- 💬 Ask me about **React**<br>
+- 📫 How to reach me **jolteaadrian@gmail.com**<br>
+
   </div>
   <div style="flex: 1;">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp0c3RwOTkxejd0b3EwOGh4ajBoMHIxa3N0ZDFqOWZrMjNkbjFsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="350" align="right">
