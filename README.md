@@ -25,3 +25,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianjoltea&" alt="adrianjoltea" /></p>
 
+##
+
+**Every mistake is a step towards success, every obstacle a test of my determination. Despite momentary defeats, I bravely persist, knowing that each line of code written brings me closer to my goals...**
+
+## ✍️ Random Dev Quote
+
+<div align="center" width="50">
+ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
+ 
+</div>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2U1MzBkZDF0engwMGtnbTQ1NWc5cjN2ZHpuaG1ibGRmcTcweWgxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6o59taY16Fqe7VbwE8/giphy.gif" alt="pixel" width="1000" align="center">
