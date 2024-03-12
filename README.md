@@ -50,8 +50,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REACT](https://img.shields.io/npm/v/react?style=flat-square&logo=react
-)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&labelColor=black)
+
 
 
 
