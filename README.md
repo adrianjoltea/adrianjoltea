@@ -16,6 +16,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianjoltea&label=Profile%20views&color=0e75b6&style=flat" alt="adrianjoltea" /> </p>
 
 <p>
+ <img align="right" width="350" src="/assets/Coder.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Tech enthusiast passionate about coding, AI, and emerging technologies. <br/><br/>
+ ❤️ &emsp; Always exploring new technologies & seeking innovative solutions.<br/><br/>
+ 📧 &emsp; Let's embark on this exciting journey together and shape the future of tech!<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/Mayank-01x/Mayank-01x/issues)
+
+</p>
+
+<p>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp0c3RwOTkxejd0b3EwOGh4ajBoMHIxa3N0ZDFqOWZrMjNkbjFsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="350" align="rigth">
 
 - 🌱 I’m currently learning **React**
