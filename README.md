@@ -23,11 +23,9 @@
 - 👨‍💻 All of my projects are available at [https://portfolio-adrian-joltea.netlify.app](https://portfolio-adrian-joltea.netlify.app)<br>
 - 💬 Ask me about **React**<br>
 - 📫 How to reach me **jolteaadrian@gmail.com**<br>
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp0c3RwOTkxejd0b3EwOGh4ajBoMHIxa3N0ZDFqOWZrMjNkbjFsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="350" align="right">
   </div>
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp0c3RwOTkxejd0b3EwOGh4ajBoMHIxa3N0ZDFqOWZrMjNkbjFsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="350" align="right">
-  </div>
+  
 </div>
 <br/>
 <h3 align="left">Connect with me:</h3>
