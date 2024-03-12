@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianjoltea&label=Profile%20views&color=0e75b6&style=flat" alt="adrianjoltea" /> </p>
 
-<img align="right" width="350" src="/assets/Coder.gif" alt="Coding gif" />
+
 
 - 🌱 I’m currently learning **React**
 
@@ -51,5 +51,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
  
 </div>
+
+<img align="right" width="350" src="/assets/Coder.gif" alt="Coding gif" />
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDQ5cmhxbzJpd3E5ZGw3NnE5cHdrbHpvb2Nncmt6eXhqbXlycWg2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/piTF2qfkyjpG4EB5Kk/giphy.gif" alt="LichKing" width="1000" align="center">
