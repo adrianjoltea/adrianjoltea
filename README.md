@@ -91,7 +91,7 @@
 
 ##
 
-**Every mistake is a step towards success, every obstacle a test of my determination. Despite momentary defeats, I bravely persist, knowing that each line of code written brings me closer to my goals...**
+**“Think of the life you have lived until now as over and, as a dead man, see what’s left as a bonus and live it according to Nature. Love the hand that fate deals you and play it as your own, for what could be more fitting?” – Marcus Aurelius**
 
 ## ✍️ Random Dev Quote
 
