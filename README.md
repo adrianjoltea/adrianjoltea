@@ -16,7 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianjoltea&label=Profile%20views&color=0e75b6&style=flat" alt="adrianjoltea" /> </p>
 <br/>
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: flex-start; justify-content:center">
   <div style="flex: 1;">
   
 - 🌱 I’m currently learning **React**<br>
