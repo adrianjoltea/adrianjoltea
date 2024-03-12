@@ -70,7 +70,7 @@
 
 <p align="center">
   <a href="https://github.com/adrianjoltea">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianjoltea&theme=radical&border=7F3FBF&background=0D1117" alt="adrianjoltea's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianjoltea&theme=react&border=7F3FBF&background=0D1117" alt="adrianjoltea's GitHub streak"/>
   </a>
 </p>
 
