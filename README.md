@@ -20,7 +20,7 @@
  # About me:
  
 <p>
- <img align="right" width="350" src="/assets/Coder.gif" alt="Coding gif" />
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp0c3RwOTkxejd0b3EwOGh4ajBoMHIxa3N0ZDFqOWZrMjNkbjFsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="350" align="right">
   
  ✌️ &emsp; Tech enthusiast passionate about coding, AI, and emerging technologies. <br/><br/>
  ❤️ &emsp; Always exploring new technologies & seeking innovative solutions.<br/><br/>
