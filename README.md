@@ -14,6 +14,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianjoltea&label=Profile%20views&color=0e75b6&style=flat" alt="adrianjoltea" /> </p>
+<img align="right" width="350" src="/assets/Coder.gif" alt="Coding gif" />
 
 - 🌱 I’m currently learning **React**
 
@@ -22,6 +23,7 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **jolteaadrian@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
