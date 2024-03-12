@@ -51,6 +51,8 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&labelColor=black)
+![Static Badge](https://img.shields.io/badge/React_Hook_Form-%23EC5990?style=for-the-badge&logo=react-hook-form&labelColor=black)
+![Static Badge](https://img.shields.io/badge/React_Router-%23CA4245?style=for-the-badge&logo=react-router&labelColor=black)
 
 
 
