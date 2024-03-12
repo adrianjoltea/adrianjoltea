@@ -46,13 +46,21 @@
 ## Use To Code
 
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Html-%23E34F26?style=for-the-badge&logo=Html5&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Css-%231572B6?style=for-the-badge&logo=Css3&labelColor=black)
+![Static Badge](https://img.shields.io/badge/VS_code-%23007ACC?style=for-the-badge&logo=Visual-studio-code&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=Sass&labelColor=black)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=Javascript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=Typescript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=NestJS&labelColor=black)
+![Static Badge](https://img.shields.io/badge/NodeJS-%23339933?style=for-the-badge&logo=Node.js&labelColor=black)
+![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=Mongodb&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Mongoose-%23880000?style=for-the-badge&logo=Mongoose&labelColor=black)
+
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/React_Hook_Form-%23EC5990?style=for-the-badge&logo=react-hook-form&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/React_Router-%23CA4245?style=for-the-badge&logo=react-router&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&labelColor=black)
 
 
 
