@@ -7,7 +7,11 @@
 <p align="center"> 
   <samp>
     <br>
-    「Hello and welcome to my profile, let's walk you through my coding adventure, i started coding in 2023 and i started with data science and learned it for 3 months almost giving up thinking this isn't for me after looking on the web for courses i found codedex and gave a try to frontend which i'm still learning today, did a lot of small and big projects to test my skills and i'm quite confident to say that i know some things about programing for a self thought frontend developer, anyway thank you for reading this and i hope that u will enjoy this profile」
+    「Welcome to my profile. Embark on a journey through my coding experience. In 2023, I delved into the realm of coding, initially focusing on data science. Despite initial challenges, I persevered for three months, honing my skills. However, feeling disheartened, I sought alternative learning paths. Discovering Codedex, I ventured into frontend development, a field I continue to explore fervently to this day.
+
+Throughout my journey, I've undertaken numerous projects, both small and large, to refine my abilities. As a self-taught frontend developer, I pride myself on my growing proficiency in programming.
+
+Thank you for taking the time to explore my profile. I trust you'll find it enlightening and enjoyable.」
     <br>
     <br>
   </samp>
