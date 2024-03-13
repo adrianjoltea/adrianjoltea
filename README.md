@@ -7,11 +7,11 @@
 <p align="center"> 
   <samp>
     <br>
-    「Welcome to my profile. Embark on a journey through my coding experience. In 2023, I delved into the realm of coding, initially focusing on data science. Despite initial challenges, I persevered for three months, honing my skills. However, feeling disheartened, I sought alternative learning paths. Discovering Codedex, I ventured into frontend development, a field I continue to explore fervently to this day.
+   Welcome to my profile. Embark on a journey through my coding experience. In 2023, I delved into the realm of coding, initially focusing on data science. Despite initial challenges, I persevered for three months, honing my skills. However, feeling disheartened, I sought alternative learning paths. Discovering Codedex, I ventured into frontend development, a field I continue to explore fervently to this day.
 
 Throughout my journey, I've undertaken numerous projects, both small and large, to refine my abilities. As a self-taught frontend developer, I pride myself on my growing proficiency in programming.
 
-Thank you for taking the time to explore my profile. I trust you'll find it enlightening and enjoyable.」
+Thank you for taking the time to explore my profile. I trust you'll find it enlightening and enjoyable.
     <br>
     <br>
   </samp>
