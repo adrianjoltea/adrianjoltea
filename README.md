@@ -103,6 +103,6 @@ Thank you for taking the time to explore my profile. I trust you'll find it enli
  
 </div>
 
-<img align="right" width="350" src="/assets/Coder.gif" alt="Coding gif" />
+
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDQ5cmhxbzJpd3E5ZGw3NnE5cHdrbHpvb2Nncmt6eXhqbXlycWg2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/piTF2qfkyjpG4EB5Kk/giphy.gif" alt="LichKing" width="1000" align="center">
