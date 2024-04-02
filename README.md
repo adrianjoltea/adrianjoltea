@@ -61,36 +61,6 @@ Thank you for taking the time to explore my profile. I trust you'll find it enli
 
 
 <br/>
-
-<p align="left">
-  <a href="https://github.com/adrianjoltea?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/adrianjoltea">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianjoltea&theme=react&border=22d3ee&background=0D1117" alt="adrianjoltea's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/adrianjoltea">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrianjoltea&theme=react" alt="adrianjoltea's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/adrianjoltea"><img alt="adrianjoltea's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=adrianjoltea&show_icons=true&count_private=true&theme=react&border_color=22d3ee&bg_color=0D1117&title_color=22d3ee&icon_color=22d3ee" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/adrianjoltea"><img alt="adrianjoltea's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adrianjoltea&langs_count=8&layout=compact&theme=react&border_color=22d3ee&bg_color=0D1117&title_color=22d3ee&icon_color=22d3ee" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-
-
 ##
 
 **“Think of the life you have lived until now as over and, as a dead man, see what’s left as a bonus and live it according to Nature. Love the hand that fate deals you and play it as your own, for what could be more fitting?” – Marcus Aurelius**
