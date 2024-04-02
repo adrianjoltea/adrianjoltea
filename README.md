@@ -58,21 +58,9 @@ Thank you for taking the time to explore my profile. I trust you'll find it enli
 ![Static Badge](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&labelColor=black)
 
 
-
-
 <br/>
 ##
 
 **“Think of the life you have lived until now as over and, as a dead man, see what’s left as a bonus and live it according to Nature. Love the hand that fate deals you and play it as your own, for what could be more fitting?” – Marcus Aurelius**
 
-## ✍️ Random Dev Quote
-
-<div align="center" width="50">
- 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
- 
-</div>
-
-
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDQ5cmhxbzJpd3E5ZGw3NnE5cHdrbHpvb2Nncmt6eXhqbXlycWg2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/piTF2qfkyjpG4EB5Kk/giphy.gif" alt="LichKing" width="1000" align="center">
+## 
