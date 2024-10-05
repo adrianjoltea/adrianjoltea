@@ -26,7 +26,7 @@ Thank you for taking the time to explore my profile. I trust you'll find it enli
   
  ✌️ &emsp; Tech enthusiast passionate about coding, AI, and emerging technologies. <br/><br/>
  ❤️ &emsp; Always exploring new technologies & seeking innovative solutions.<br/><br/>
- 📧 &emsp; Let's embark on this exciting journey together and shape the future of tech!<br/><br/>
+ 📧 &emsp; Let's embark on this exciting journey together and shape the future of tech<br/><br/>
  💬 &emsp; All of my projects are available at [https://adrian-portfolio3d.netlify.app](https://adrian-portfolio3d.netlify.app)<br/><br/>
  📫 &emsp; How to reach me **jolteaadrian@gmail.com**<br/><br/>
 
