@@ -19,7 +19,7 @@ Thank you for taking the time to explore my profile. I trust you'll find it enli
 <br/>
 
 <!-- About Section -->
- # About me:
+ # About me
  
 <p>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp0c3RwOTkxejd0b3EwOGh4ajBoMHIxa3N0ZDFqOWZrMjNkbjFsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="350" align="right">
